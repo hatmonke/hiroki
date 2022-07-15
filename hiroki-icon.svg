@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="25" height="25" viewBox="0 0 25 25">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.099" x2="0.911" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#0097d9"/>
+      <stop offset="1" stop-color="#004f90"/>
+    </linearGradient>
+  </defs>
+  <circle id="Ellipse_2" data-name="Ellipse 2" cx="12.5" cy="12.5" r="12.5" fill="url(#linear-gradient)"/>
+  <g id="Gruppe_92" data-name="Gruppe 92" transform="translate(6.796 5.155)">
+    <path id="Vereinigungsmenge_1" data-name="Vereinigungsmenge 1" d="M3.659,7.281h3.52l-1.76,3.446Zm0,0,1.76-1.723,1.76,1.723ZM7.319,3.641l3.52,1.723L7.319,7.087ZM5.558,5.364l1.76-1.723V7.087ZM0,5.364,3.52,3.641,5.28,5.364,3.52,7.087ZM3.659,3.446,5.419,0l1.76,3.446L5.419,5.169Z" transform="translate(0.285 1.981)" fill="#fff"/>
+    <path id="Vereinigungsmenge_2" data-name="Vereinigungsmenge 2" d="M7.7,7.664,9.556,9.478,5.851,11.292Zm0,0,3.705-1.814L9.556,9.478ZM1.853,1.814,3.705,3.627,0,5.441Zm0,0L5.558,0,3.705,3.627Z" transform="translate(0 1.699)" fill="#fff"/>
+    <path id="Pfad_35" data-name="Pfad 35" d="M1517.507,110.412l1.853,3.627,1.853-5.2Z" transform="translate(-1511.705 -108.84)" fill="#fff"/>
+    <path id="Pfad_36" data-name="Pfad 36" d="M821.2,1815.715l-1.853-3.628-1.853,5.2Z" transform="translate(-815.59 -1802.597)" fill="#fff"/>
+  </g>
+</svg>
